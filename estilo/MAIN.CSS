@@ -1,0 +1,165 @@
+ 
+*{
+    margin: 0% 0%;
+    padding: 0% 0%;
+
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body{
+    background-image: linear-gradient(#6A8A8D , #BABCBC , #6088B3  );
+/* }      
+.cabecera{
+    height: 180px;
+    
+}
+
+.logo{
+    width: 150px;
+    margin-top: -100px;
+    margin-left: 50px;
+    border-radius: 15px;
+       
+}
+.menu{
+    height: 55px;
+    
+}
+.menu2{
+    list-style: none;
+    padding: 10px;
+    gap: 100px;
+    font-size: 30px;
+    margin: -90px;
+    
+    display: flex;
+    flex-flow: row-reverse;
+}
+.menu a{
+    text-decoration: none;
+    color:white; 
+ */   
+} 
+
+.cabecera h1{
+    text-align: center;
+    font-size: 90px;
+}
+
+
+
+h2{
+    text-align: center;
+}
+
+
+
+.img2{
+    width: 550px;
+    height: 500px;
+}
+.contenidos2{
+    height: 700px;
+    text-align: center;
+
+}
+
+.vd{
+    width: 900px;
+    height: 600px;
+
+}
+.final{
+    height: 210px;
+}  
+.footer ul li{
+    list-style: none;
+}  
+
+/* formulario registro */
+
+.registro{
+    width: 400px;
+    background: #0b3c70;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    box-shadow: 10PX 15px 20px #0b3c70;
+}
+
+.registro h4{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.controls{
+    width: 95%;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    border: solid 1px rgb(0, 110, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.registro p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.registro a{
+    color:white;
+    text-decoration: none;
+}
+.registro a:hover {
+    color:white;
+    text-decoration: underline;
+}
+.boton{
+    width: 100%;
+    background: rgb(1, 1, 161);
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 15px 0;
+    font-size: 20px;
+
+}
+
+ /* NOSOTROS */
+
+ .contenedor-somos{
+    width: 80%;
+    height: 100%;
+    background: #a5bcbe;
+ }
+
+    
+ .contenedor-somos img{
+    width: 600px;
+    height: 450px;
+ }
+
+ .contenedor-somos h2{
+    text-align: center;
+    font-size: 50px;
+
+ }
+ .contenidos{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+
+ }
+ .contenidos p{
+    font-size: 30px;
+ }
+ .contenidos h3{
+    font-size: 40px;
+ }
