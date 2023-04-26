@@ -85,10 +85,15 @@ h2{
     img{
         height: 350px;
         margin-left: 25%;
-        object-fit: contain;
+        object-fit:contain;
+        
     }
     p{
         text-align: center;
+    }
+    .alarma1{
+        
+        height: 350px;
     }
 }
 
@@ -246,7 +251,6 @@ h2{
      
      
      .map{
-        
         width: 50%;
      }
      

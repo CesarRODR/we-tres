@@ -67,6 +67,9 @@ h2 {
 .content2 p {
   text-align: center;
 }
+.content2 .alarma1 {
+  height: 350px;
+}
 
 .img2 {
   width: 550px;
